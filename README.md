@@ -1,6 +1,6 @@
 # MarKing
 
-Instaladores oficiais do **MarKing** — o jogo e o bot numa ferramenta só.
+Instalador do **MarKing**.
 
 O app instalado procura atualizações aqui sozinho. Quando sai uma versão nova, ele baixa em segundo plano e avisa para reiniciar.
 
@@ -51,7 +51,3 @@ Se você fechar sem reiniciar, a atualização entra na próxima abertura.
 - Login / acesso → a API precisa estar no ar; o app usa o endereço configurado na build
 
 ---
-
-<p align="center">
-  <sub>Este repositório só hospeda os instaladores. O código do app fica em outro lugar.</sub>
-</p>
